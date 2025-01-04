@@ -1,4 +1,4 @@
-# Algorithms 2
+# Algorithms Implementation
 
 A simple and visualized method to track and understand the following algorithms.
 - BFS
